@@ -21,7 +21,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+# Áses dos céus ;)
 
+## 📒 Descrição
+O vídeo criado a partir de IAs Generativas, com duração de 4 segundos, enaltece a aviação, esse meio de transporte tão brilhante. 
+
+## 🤖 Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+## 🧐 Processo de Criação
+Descreva como você criou o conteúdo
+1º - utilizei o ChatGPT solicitando que discorresse sobre o tema aviação em 10 palavras.
+2º - No D-ID selecionei um avatar, selecionei o plano de fundo, inseri o texto gerado pelo GPT e criei o vídeo.
+## 🚀 Resultados
+Apresente os resultados do seu projeto
+https://studio.d-id.com/share?id=3ac88e28bce58217d90c96c150bf5036&utm_source=copy
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.
+Minha inteção inicial era criar um vídeo de 1 minuto sobre o dia de um piloto de avião. Contudo tive que fazer mudanças de projeto porque o D-ID permitui sintetização de voz na opção free somente de 10 palavras. Então readaptei o percurso falando sobre a aviação em 10 palavras. 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
